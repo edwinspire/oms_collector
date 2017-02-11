@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Client xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Receiver>http://192.168.238.66/receiver_web.php</Receiver>
+  <ReportValidator>b672b5251051c39cf9e433e6c38207b3</ReportValidator>
+  <IdEquipment>4739</IdEquipment>
+  <Interval>1</Interval>
+  <LastExec>0001-01-01T00:00:00</LastExec>
+  <LastExecReturn>999</LastExecReturn>
+  <Reported>false</Reported>
+  <Enabled>true</Enabled>
+  <Server>192.168.238.66</Server>
+  <Pause>0</Pause>
+  <ReloadConfigFiles>false</ReloadConfigFiles>
+  <UniqueConfig>true</UniqueConfig>
+  <ListenPort>54321</ListenPort>
+  <ListPlugins />
+</Client>

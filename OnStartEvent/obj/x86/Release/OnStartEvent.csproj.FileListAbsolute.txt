@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\bin\Release\OnStartEvent.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\bin\Release\OnStartEvent.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\bin\Release\lib_oms.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\bin\Release\lib_oms.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\obj\x86\Release\OnStartEvent.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\obj\x86\Release\OnStartEvent.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\OnStartEvent\obj\x86\Release\OnStartEvent.pdb

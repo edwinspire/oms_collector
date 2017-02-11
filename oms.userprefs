@@ -1,0 +1,18 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{7D5B34DF-8E8A-422F-A52D-C9EE5B29EF6E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnStartEvent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.octopus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lib_oms\lib_oms.cs">
+    <Files>
+      <File FileName="lib_oms\lib_oms.cs" Line="22" Column="10" />
+      <File FileName="Client\Client.cs" Line="73" Column="15" />
+      <File FileName="lib_oms_driveinfo\lib_oms_driveinfo.cs" Line="71" Column="4" />
+      <File FileName="octopus\Octopus.cs" Line="33" Column="4" />
+      <File FileName="..\..\..\..\..\..\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets" Line="1819" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

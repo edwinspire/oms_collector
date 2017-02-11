@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Table>events_ping</Table>
+  <Receiver>http://192.168.238.66/receiver_web.php</Receiver>
+  <IP>127.0.0.1</IP>
+  <IdEquipment>-1</IdEquipment>
+  <Identification>12345678</Identification>
+</Ping>

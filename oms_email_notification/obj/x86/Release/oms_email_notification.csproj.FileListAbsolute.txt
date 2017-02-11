@@ -1,0 +1,4 @@
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\oms_email_notification\bin\Release\oms_email_notification.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\oms_email_notification\bin\Release\oms_email_notification.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\oms_email_notification\obj\x86\Release\oms_email_notification.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\oms_email_notification\obj\x86\Release\oms_email_notification.pdb

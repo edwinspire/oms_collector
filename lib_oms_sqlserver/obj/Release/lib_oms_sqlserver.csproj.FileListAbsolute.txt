@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\bin\Release\lib_oms_sqlserver.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\bin\Release\lib_oms_sqlserver.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\bin\Release\lib_oms.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\bin\Release\lib_oms.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\obj\Release\lib_oms_sqlserver.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_sqlserver\obj\Release\lib_oms_sqlserver.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeleteFiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Receiver>http://192.168.238.66/receiver_web.php</Receiver>
+  <ReportValidator>*</ReportValidator>
+  <IdEquipment>-1</IdEquipment>
+  <Interval>120</Interval>
+  <LastExec>0001-01-01T00:00:00</LastExec>
+  <LastExecReturn>999</LastExecReturn>
+  <Reported>false</Reported>
+  <Enabled>true</Enabled>
+  <Directorio>k:/backup</Directorio>
+  <Dias>3</Dias>
+  <Patron>*.bak</Patron>
+  <IncluirFechaModificacion>true</IncluirFechaModificacion>
+</DeleteFiles>

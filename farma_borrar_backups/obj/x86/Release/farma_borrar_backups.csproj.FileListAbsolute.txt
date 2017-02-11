@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\bin\Release\farma_borrar_backups.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\bin\Release\farma_borrar_backups.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\bin\Release\lib_oms.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\bin\Release\lib_oms.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\obj\x86\Release\farma_borrar_backups.exe
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\farma_borrar_backups\obj\x86\Release\farma_borrar_backups.pdb

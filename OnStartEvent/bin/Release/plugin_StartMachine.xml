@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StartMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Receiver>http://192.168.238.66/receiver_web.php</Receiver>
+  <ReportValidator>*</ReportValidator>
+  <IdEquipment>-1</IdEquipment>
+  <Interval>30</Interval>
+  <LastExec>2017-02-10T13:15:09.2762639-05:00</LastExec>
+  <LastExecReturn>999</LastExecReturn>
+  <Reported>false</Reported>
+  <Enabled>true</Enabled>
+</StartMachine>

@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\bin\Release\lib_oms_driveinfo.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\bin\Release\lib_oms_driveinfo.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\bin\Release\lib_oms.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\bin\Release\lib_oms.pdb
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\obj\Release\lib_oms_driveinfo.dll
+C:\Users\Administrador\Documents\Trabajo\Desarrollo\oms\lib_oms_driveinfo\obj\Release\lib_oms_driveinfo.pdb

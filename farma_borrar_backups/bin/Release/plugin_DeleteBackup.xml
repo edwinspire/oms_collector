@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeleteBackup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Receiver>http://localhost</Receiver>
+  <ReportValidator>999999999999</ReportValidator>
+  <IdEquipment>1</IdEquipment>
+  <Interval>30</Interval>
+  <LastExec>2016-05-08T20:49:44.996869-05:00</LastExec>
+  <LastExecReturn>0</LastExecReturn>
+  <Reported>true</Reported>
+  <Directorio>k:/backup</Directorio>
+  <Dias>3</Dias>
+  <Patron>*.bak</Patron>
+  <IncluirFechaModificacion>true</IncluirFechaModificacion>
+</DeleteBackup>

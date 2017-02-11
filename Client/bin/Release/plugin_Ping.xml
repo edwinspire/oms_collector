@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Receiver>http://192.168.238.66/receiver_web.php</Receiver>
+  <ReportValidator>b672b5251051c39cf9e433e6c38207b3</ReportValidator>
+  <IdEquipment>4739</IdEquipment>
+  <Interval>30</Interval>
+  <LastExec>2016-06-04T11:12:27.984772-05:00</LastExec>
+  <LastExecReturn>0</LastExecReturn>
+  <Reported>true</Reported>
+  <Enabled>true</Enabled>
+  <ToIP>192.168.161.33</ToIP>
+  <MaxTime>800</MaxTime>
+  <ReportOnlyExceedsMaxTime>true</ReportOnlyExceedsMaxTime>
+</Ping>
